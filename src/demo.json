@@ -1,0 +1,10 @@
+{
+    "null": null,
+    "string": "string",
+    "number": 123,
+    "array": [1, 2, 3],
+    "objecta": { 
+      "name": "john"
+    },
+    "value": "asdf"
+}

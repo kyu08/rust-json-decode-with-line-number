@@ -1,0 +1,8 @@
+[package]
+name = "json-decode-with-line-number"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+codespan = "0.11.1"
+json-spanned-value = "0.2.2"
